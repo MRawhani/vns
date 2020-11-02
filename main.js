@@ -131,7 +131,7 @@ if (auto) {
   slideInterval = setInterval(nextSlide, intervalTime);
 }
 
-//sssss
+//slide animation
 
 const root = document.documentElement;
 const marqueeElementsDisplayed = getComputedStyle(root).getPropertyValue(
